@@ -11,5 +11,8 @@
   "dependencies": {
     "cypress": "^13.6.0"
   },
-  "description": ""
+  "description": "Curso de QA da Tech Fixe <br> Aulas de Cypress",
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
 }
